@@ -1,0 +1,7 @@
+{
+ :dsl-dir-path "/path/to/dsl/generated/xml",
+ :jobs-dir-path "/path/to/.jenkins/jobs"
+ :modules ["job_one_name",
+           "job_two_name"
+           ]
+ }
